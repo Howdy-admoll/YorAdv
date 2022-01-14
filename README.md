@@ -4,7 +4,7 @@ A computational model to recognize and extracts Yoruba adjective in Yoruba text.
 
 Group Project for CSC401 FORMAL LANGUAGE
 
- CSC401 By Prof. Adetunbi
+         CSC401 By Prof. Adetunbi
  Adefemi Ademola Algorithm, Developed and Compiled
  Edogbo Joshua Designed the UI/UX
  Oladoyin Michael Implemented the Front-End
