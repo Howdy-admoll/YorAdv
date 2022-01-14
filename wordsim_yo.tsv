@@ -1,0 +1,355 @@
+# The WordSimilarity-353 Test Collection (http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
+# Word 1	Word 2	Human (mean)
+ifẹ	ibalopọ	6.77
+ẹkun	ologbo	7.35
+ẹkun	ẹkun	10
+iwe	beba	7.46
+kọmputa	patako itẹwe	7.62
+kọmputa	ayelujara	7.58
+ọkọ-ofurufu	ọkọ	5.77
+ọkọ-oju-irin	ọkọ	6.31
+ẹrọ-ibaaraẹnisọrọ	ibaaraẹnisọrọ	7.5
+tẹlifiṣọn	redio	6.77
+ikansira-ẹni	redio	7.42
+oogun	asilo	6.85
+burẹdi	bọta	6.19
+kukumba	anamọ	5.92
+dokita	nọọsi	7
+ọjọgbọn	ọmọwe	6.62
+akẹkọọ	ọjọgbọn	6.81
+ajafafa	akẹẹkọ	4.62
+ọlọgbọn	ọmugọ	5.81
+ile-iṣẹ	akojọ-ọja	7.08
+akojọ-ọja	ọja	8.08
+akojọ-ọja	foonu	1.62
+akojọ-ọja	sidi	1.31
+akojọ-ọja	jagua	0.92
+akojọ-ọja	ẹyin	1.81
+ọlọmọ	ẹyin	6.69
+akojọ-ọja	aaye	3.73
+akojọ-ọja	aaye	0.92
+iwe	ile iyaweekawe	7.46
+ile-ifowopamọ	owo	8.12
+igi	igbo	7.73
+owo	ikasi	9.15
+ọjọgbọn	kukumba	0.31
+ọba	kabeegi	0.23
+ọba	ayaba	8.58
+ọba	iyanjẹ	5.92
+olori-aluufa	olukọni	6.69
+jerusalẹẹmuu	isirẹẹli	8.46
+jerusalẹẹmuu	palẹsini	7.65
+mimọ	ibalopọ	1.62
+fọọki	ibalopọ	9.44
+Maradona	bọọlu-alafẹsẹgba	8.62
+bọọlu-alafẹsẹgba	bọọlu	9.03
+bọọlu-alafẹsẹgba	bọọlu-inu-agbọn	6.81
+bọọlu-alafẹsẹgba	tẹniisi	6.63
+tẹniisi	rakẹẹti	7.56
+arafa	alaafia	6.73
+arafa	ẹru	7.65
+arafa	jackson	2.5
+ofin	agbẹjọrọ	8.38
+ere	gbajugbaja	7.38
+ere	guguru	6.19
+ere	lameetọ	6.73
+ere	ere ori-itage	7.92
+fisisi	protonu	8.12
+fisisi	kẹmisiri	7.35
+aaye	kẹmisiri	4.88
+ọti	kẹmisiri	5.54
+ọti-fodika	ọti-jiini	8.46
+ọti-fodika	oti-brandi	8.13
+mu	ọkọ	3.04
+mu	eti	1.31
+mu	ẹnu	5.96
+mu	jẹ	6.87
+ọmọ-ọwọ	iya	7.85
+mu	iya	2.65
+ọkọ	ohun-elo arinna	8.94
+sọ	iyebiye	8.96
+irin-ajo	irin-ajo	9.29
+ọmọkunrin	ọmọde	8.83
+eti-okun	etido	9.1
+ibi-aabo	ile itọju asinwin	8.87
+opidan	oṣo	9.02
+oorin	ọjọkanri	9.29
+ile-ina	idana	8.79
+ounjẹ	eso	7.52
+ẹyẹ	akukọ	7.1
+ẹyẹ	wadowado	7.38
+irinṣẹ	irinṣẹ	6.46
+arakunrin	araye	6.27
+irinṣẹ-igbe-nnkanwuwo	ṣe	2.69
+ọmọde	arakunrin	4.46
+irinajo	ọkọ	5.85
+arakunrin	aworawọ	5
+ibi-isinku	ilẹ-igbo	2.08
+ounjẹ	akukọ	4.42
+etido	oke	4.38
+igbo	iboji	1.85
+etido	ilẹ-igbo	3.08
+ajẹjẹẹ anikangbe	ẹru	0.92
+etido	igbo	3.15
+ọmọde	oṣo	0.92
+okun	ẹrin	0.54
+igo	apidan	2.08
+ọjọkanri	okun	0.54
+akukọ	irin-ajo	0.62
+owo	dọla	8.42
+owo	ikasi	9.08
+owo	kọrẹnsi	9.04
+owo	ọrọ	8.27
+owo	dukia	7.57
+owo	ini	7.29
+owo	ile-ifowopamọ	8.5
+owo	ifowopamọ	7.73
+owo	igbowo	6.88
+owo	ikoworeli-okere	5.65
+owo	isiṣẹ	3.31
+ẹkun	amọtẹkun	8
+ẹkun	ologbo	8
+ẹkun	ajẹran	7.08
+ẹkun	afọmọlọmu	6.85
+ẹkun	ẹranko	7
+ẹkun	abẹmi	4.77
+ẹkun	akojọpọ ẹranko	5.62
+ẹkun	ọgba-ẹranko	5.87
+imọ nipa ẹda	ajẹmọ-arun-ọpọlọ	8.08
+imọ nipa ẹda	ijaya	7
+imọ nipa ẹda	ibẹru	6.85
+imọ nipa ẹda	irẹwẹsi-ọkan	7.42
+imọ nipa ẹda	ile iwosan	6.58
+imọ nipa ẹda	dokita	6.42
+imọ nipa ẹda	freud	8.21
+imọ nipa ẹda	ọkan	7.69
+imọ nipa ẹda	ilera	7.23
+imọ nipa ẹda	sayẹnsi	6.71
+imọ nipa ẹda	isẹra-eni	5.58
+imọ nipa ẹda	imọ	7.48
+aye	irawọ	8.45
+aye	ifi-irawọsipo	8.06
+aye	osupa	8.08
+aye	oorun	8.02
+aye	ajọ osupa	8.11
+aye	ofururu	7.92
+aye	aworawọ	7.94
+iṣaju	apẹẹrẹ	5.85
+iṣaju	ifitonileti	3.85
+iṣaju	imọ	2.81
+iṣaju	ofin	6.65
+iṣaju	akojọ	2.5
+iṣaju	ẹgbẹ	1.77
+iṣaju	ṣiṣaaju	6.04
+ife	kọfi	6.58
+ife	ohun elo aṣetabili lọsọọ	6.85
+ife	abalaye	2.4
+ife	abalaye	2.92
+ife	eroja	3.69
+ife	nnkan	2.15
+ife	imumi	7.25
+ife	ounjẹ	5
+ife	nnkan	1.92
+ife	ajẹmomi	5.9
+amọtẹkun	ologbo	7.42
+amọtẹkun	ọkọ	7.27
+agbara	akọwe	1.81
+akọwe	asofin	5.06
+agbara	iyara iṣewadii	5.09
+kọmputa	iyara iṣewadii	6.78
+ohun-ija	asiri	6.06
+FBI	itẹ-ila ọwọ	6.94
+FBI	iwadii	8.31
+iṣewadii	akitiyan	4.59
+maasi	omi	2.94
+maasi	onimọ sayẹnsi	5.63
+iroyin	ijabọ	8.16
+afonifoji-olomi	ala-ilẹ	7.53
+aworan	oju	4.56
+awari	aye	6.34
+omi	iriran	6.56
+aami	idaduro	2.38
+ọjọru	iroyin	2.22
+maili	kilomita	8.66
+kọmputa	iroyin	4.47
+agbegbe	oju	5.34
+oju aye	ala-ilẹ	3.69
+aarẹ	oye-ẹyẹ	3
+ogun	ọmọ-ọgun	8.13
+akọsilẹ	nọmba	6.31
+awọ-ara	oju	6.22
+Japaniisi	Amẹrika	6.5
+ere-ori-itage	itan	3.91
+olufarajin	akọmọna	2.56
+ẹtanu	idanimọ	3
+iṣelọsọọ	isakikanju	5.63
+ọgọrun-un ọdun	ọdun	7.59
+ọgọrun-un ọdun	orilẹ-ede	3.16
+idaduro	ẹlẹyamẹya	1.19
+idaduro	iroyin	3.31
+minisita	ẹgbẹ	6.63
+alaafia	ero	4.75
+ipin-kekere	alaafia	3.69
+gbiyanju	alaafia	4.25
+ijọba	wahala	6.56
+imuṣiṣẹ	lilọ	4.25
+imuṣiṣẹ	imukuro	5.88
+agbara	wahala	5.94
+ikede	iroyin	7.56
+ikede	akitiyan	2.75
+rọlapa-rọlẹsẹ	ile-iwosan	7.03
+alebu	iku	5.47
+olugbadi	pajawiri	6.47
+itọju	imubọsipo	7.91
+jọna	ẹgbẹ	4.97
+dokita	oṣiṣẹ	5
+dokita	gbese	5.19
+gbese	idojutofo	7.03
+ile-iwe	ibi-iṣẹ	3.44
+idi	ẹjẹ-riru	2.31
+idi	odunwọn	5.91
+ọgọrun-un	ida	7.38
+hafadi	yale	8.13
+ile-iwosan	imayedẹrun	4.63
+iku	ọwọ	5.25
+iku	ẹlẹwọn	5.03
+agbẹjọro	ẹri	6.69
+iye	iku	7.88
+iye	saa	4.5
+ọrọ	ibajọra	4.75
+igbimọ alaṣe	aba	4.47
+gomina	ifọrọwanilẹnuwo	3.25
+OPEC	orilẹ-ede	5.63
+alaafia	oju ọrun	3.69
+alaafia	idojutofo	2.94
+agbegbe	kilomita	5.28
+irinajo	iṣe	5
+idije	idiyele	6.44
+onibaara	igboya	4.13
+onibaara	agbara	4.75
+iṣoro	papa ọkọ-ofurufu	2.38
+ọkọ	ọkọ-ofurufu	4.94
+kirẹdiiti	kaadi	8.06
+kirẹdiiti	ifitonileti	5.31
+otẹẹli	igbayesilẹ	8.03
+ita-eelo	owo	5.94
+iforukọsilẹ	eto	6
+eto	ibugbe	5.41
+oṣu	otẹẹli	1.81
+oriisi	iru	8.97
+dide	otẹẹli	6
+ibusun	kọlọfin	6.72
+kọlọfin	aṣọ	8
+ipo	ipari	4.81
+ipo	iyasọtọ	3.88
+aisojusaaju	ifẹ	5.16
+itọsọna	akojọpọ	2.25
+opopona	ibi	6.44
+opopona	ọna	8.88
+opopona	ibusọ	6.88
+opopona	ọmọ	4.94
+gbigbọ	iṣumọtosi	2.56
+gbigbọ	ẹka	6.38
+sẹẹli	foonu	7.81
+igbeṣẹ-jade	igbowolori	1.75
+gbedeke	sẹẹli	4.25
+ibanisọrọ	iṣowo	3.88
+ibanisọrọ	jeere	2.88
+ere	isanwo	7.63
+ere	isiro	6.48
+isiro	idiyele	8.44
+kọrẹnsi	ọja	7.5
+opec	eepo	8.59
+eepo	akojọ-ọja	6.34
+ikede	igbesẹjade	3.38
+ikede	ikilọ	6
+ere	ikilọ	3.88
+ere	padanu	7.63
+dọla	yẹẹni	7.78
+dọla	dọla kan	9.22
+dọla	ere	7.38
+dọla	padanu	6.09
+kọmputa	ajẹkọmputa o siṣẹ	8.5
+itakun	ẹrọ	8.31
+foonu	ohun-elo	7.13
+ohun-elo	oluṣe	5.91
+afẹ-aye	ọkọ	6.47
+marun-un	osu	3.38
+abọ	jeere	3.63
+oludokoowo	iye to n wọle	7.13
+olomi	omi	7.89
+boolu-ọlọọpa	igba	5.97
+ere-idaraya	iṣẹgun	7.03
+ere-idaraya	ẹgbẹ	7.69
+ere ọlọgbanrangandan	ẹmi	7.47
+ere-idaraya	orisiirisii	6.19
+ere-idaraya	padanu	6.97
+meje	orisiirisii	3.56
+ounjẹ-odo	okun	7.47
+ounjẹ-odo	ounjẹ	8.34
+ounjẹ-odo	akọ-ede	8.7
+akọ-ede	ounjẹ	7.81
+akọ-ede	oti-waini	5.7
+ounjẹ	sise	6.22
+fidio	ibi iselọjọ	6.34
+ibẹrẹ	ọdun	4.06
+ibẹrẹ	baramu	4.47
+ere-idaraya	roboto	5.97
+ẹṣẹ-kikan	roboto	7.61
+idije	ifagagbaga	8.36
+ija	igbajakulẹ	7.41
+ila	idojutofo	2.69
+ọjọ	ẹẹrun	3.94
+ẹẹrun	ọgbẹlẹ	7.16
+ẹẹrun	aye	5.63
+ọjọ	afẹjumọ	7.53
+aye	ayika	8.31
+ayika	imọ nipa ayika	8.81
+adamọ	ọkunrin	6.25
+ọkunrin	obinrin	8.3
+ọkunrin	gomina	5.25
+ipaniyan	iṣekupani	8.53
+ọṣẹ	ere	7.94
+ere	iṣe	6.88
+igbesi-aye	ẹkọ	5.94
+afojusi	igbesi-aye	4.06
+igbeṣẹjade	osiṣẹ	6.25
+tẹlifiṣọn	fiimu	7.72
+ololufẹ	aawọ	6.19
+onworan	oju-opo	2.97
+oṣeoṣe	ọmọbirin	1.94
+iye-eniyan	idagbasoke	3.75
+iwa ọmọluabi	pataki	3.31
+iwa ọmọluabi	igbeyawo	3.69
+mẹsiko	birasili	7.44
+akọnbabo	idọgba	6.41
+ayipada	iha kikọ si nnkan	5.44
+idile	iṣeto	6.25
+ere	ile-iṣẹ	2.63
+suga	ọna	0.88
+iṣe	igbekalẹ	3.19
+ile-iṣẹ	aṣa	4.69
+iṣoro	ipenija	6.75
+iwọn	fojuhan	5.31
+orilẹ-ede	ọmọ irilẹ-ede	7.31
+aye	eniyan	5.75
+idagbasoke	ọrọ	3.97
+iriri	orin	3.47
+orin	akanṣe iṣẹ	3.63
+gilaasi	irin	5.56
+baba	irin	7.83
+aaye	iwulo	3.88
+safihan	ohun-iranti	5.31
+ere-orin	agba-oṣere	6.81
+rọọki	jazz	7.59
+ile-isẹmbaye	ere-ori-itage	7.19
+akiyesi	aworan ilegbee	4.38
+aye	agbaye	6.53
+ifipamọ	agbaye	6.19
+igbawọle	iwe aṣe igbaniwọle	7.69
+ojo	aara	6.31
+ojo	ẹkun ọmi	6.03
+oju-ọjọ	asọtẹlẹ oju ọjọ	8.34
+ajalu	agbegbe	6.25
+gomina	ọfisi	6.34
+aworan ilegbee	ọgbọrun-un ọdun	3.78

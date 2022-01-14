@@ -1,0 +1,355 @@
+# The WordSimilarity-353 Test Collection (http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
+# Word 1	Word 2	Human (mean)
+ìfẹ́	ìbálòpọ̀	6.77
+ẹkùn	ológbò	7.35
+ẹkùn	ẹkùn	10
+ìwé	bébà	7.46
+kọ̀mpútà	pátákó ìtẹ̀wé	7.62
+kọ̀mpútà	ayélujára	7.58
+ọkọ̀-òfúrufú	ọkọ̀	5.77
+ọkọ̀-ojú-irin	ọkọ̀	6.31
+ẹ̀rọ-ìbáaraẹnisọ̀rọ̀	ìbáaraẹnisọ̀rọ̀	7.5
+tẹlifíṣọ̀n	rédíò	6.77
+ìkansíra-ẹni	rédíò	7.42
+òògùn	àsìlò	6.85
+búrẹ́dì	bọ́tà	6.19
+kùkúmbà	ànàmọ́	5.92
+dókítà	nọ́ọ̀sì	7
+ọ̀jọ̀gbọ́n	ọ̀mọ̀wé	6.62
+akẹ́kọ̀ọ́	ọ̀jọ̀gbọ́n	6.81
+ajáfáfá	akẹ́ẹ̀kọ́	4.62
+ọlọgbọ́n	ọmùgọ̀	5.81
+ilé-iṣẹ́	àkójọ-ọjà	7.08
+àkójọ-ọjà	ọjà	8.08
+àkójọ-ọjà	fóònù	1.62
+àkójọ-ọjà	sídì	1.31
+àkójọ-ọjà	jágúà	0.92
+àkójọ-ọjà	ẹyin	1.81
+ọlọ́mọ	ẹyin	6.69
+àkójọ-ọjà	ààyè	3.73
+àkójọ-ọjà	ààyè	0.92
+ìwé	ilé ìyáwèékàwé	7.46
+ilé-ìfowópamọ́	owó	8.12
+igi	igbó	7.73
+owó	ìkàsì	9.15
+ọ̀jọ̀gbọ́n	kùkúmbà	0.31
+ọba	kábéègì	0.23
+ọba	ayaba	8.58
+ọba	ìyànjẹ	5.92
+olórí-àlùúfà	olùkọ́ni	6.69
+jerúsálẹ́ẹ́mùù	ísírẹ́ẹ̀lì	8.46
+jerúsálẹ́ẹ́mùù	palẹ́sínì	7.65
+mímọ́	ìbálòpọ̀	1.62
+fọ́ọ̀kì	ìbálòpọ̀	9.44
+Maradona	bọ́ọ̀lù-aláfẹsẹ̀gbá	8.62
+bọ́ọ̀lù-aláfẹsẹ̀gbá	bọ́ọ̀lù	9.03
+bọ́ọ̀lù-aláfẹsẹ̀gbá	bọ́ọ̀lù-inú-àgbọ̀n	6.81
+bọ́ọ̀lù-aláfẹsẹ̀gbá	tẹníìsì	6.63
+tẹníìsì	rákẹ́ẹ̀tì	7.56
+àràfá	àlááfìà	6.73
+àràfá	ẹ̀rù	7.65
+àràfá	jackson	2.5
+òfin	agbẹjọ́rọ̀	8.38
+eré	gbájúgbajà	7.38
+eré	gúgúrú	6.19
+eré	lámèétọ́	6.73
+eré	eré orí-ìtàgé	7.92
+físísì	protonu	8.12
+físísì	kẹ́mísírì	7.35
+ààyè	kẹ́mísírì	4.88
+ọtí	kẹ́mísírì	5.54
+ọtí-fódíkà	ọtí-jíìnì	8.46
+ọtí-fódíkà	otí-bráńdì	8.13
+mu	ọkọ̀	3.04
+mu	etí	1.31
+mu	ẹnu	5.96
+mu	jẹ	6.87
+ọmọ-ọwọ́	ìyá	7.85
+mu	ìyá	2.65
+ọkọ̀	ohun-èlò arìnnà	8.94
+sọ	iyebíye	8.96
+ìrìn-àjò	irìn-àjò	9.29
+ọmọkùnrin	ọmọdé	8.83
+etí-òkun	etídò	9.1
+ibi-ààbò	ilé ìtọ́jú asínwín	8.87
+òpidán	oṣó	9.02
+òòrìn	ọjọ́kanrí	9.29
+ile-iná	ìdáná	8.79
+oúnjẹ	èso	7.52
+ẹyẹ	àkùkọ	7.1
+ẹyẹ	wádòwádò	7.38
+irinṣẹ́	irinṣẹ́	6.46
+arákùnrin	aráyé	6.27
+irinṣẹ́-ìgbe-nǹkanwúwo	ṣe	2.69
+ọmọdé	arákùnrin	4.46
+ìrìnàjò	ọkọ̀	5.85
+arákùnrin	awòràwọ	5
+ibi-ìsìnkú	ilẹ̀-igbó	2.08
+oúnjẹ	akùkọ	4.42
+etídò	òkè	4.38
+igbó	ibojì	1.85
+etídò	ilẹ̀-igbó	3.08
+ajẹ́jẹ̀ẹ́ ànìkàngbé	ẹrú	0.92
+etídò	igbó	3.15
+ọmọdé	oṣó	0.92
+okùn	ẹ̀rín	0.54
+ìgò	apidán	2.08
+ọjọ́kanrí	okùn	0.54
+akùkọ	ìrìn-ajò	0.62
+owó	dọ́là	8.42
+owó	ìkàsì	9.08
+owó	kọ́rẹ́nsì	9.04
+owó	ọrọ̀	8.27
+owó	dúkìá	7.57
+owó	ìní	7.29
+owó	ilé-ìfowópamọ́	8.5
+owó	ìfówópamọ́	7.73
+owó	ìgbowó	6.88
+owó	ìkówórelí-òkèrè	5.65
+owó	ìsiṣẹ́	3.31
+ẹkùn	àmọ̀tẹ́kùn	8
+ẹkùn	ológbò	8
+ẹkùn	ajẹran	7.08
+ẹkùn	afọ́mọlọ́mú	6.85
+ẹkùn	ẹranko	7
+ẹkùn	abẹ̀mí	4.77
+ẹkùn	àkójọpọ̀ ẹranko	5.62
+ẹkùn	ọgbà-ẹranko	5.87
+ìmọ̀ nípa ẹ̀dá	ajẹmọ́-arùn-ọpọlọ	8.08
+ìmọ̀ nípa ẹ̀dá	ìjayà	7
+ìmọ̀ nípa ẹ̀dá	ìbẹ̀rù	6.85
+ìmọ̀ nípa ẹ̀dá	ìrẹ̀wẹ̀sì-ọkàn	7.42
+ìmọ̀ nípa ẹ̀dá	ilé ìwòsàn	6.58
+ìmọ̀ nípa ẹ̀dá	dókítà	6.42
+ìmọ̀ nípa ẹ̀dá	freud	8.21
+ìmọ̀ nípa ẹ̀dá	ọkàn	7.69
+ìmọ̀ nípa ẹ̀dá	ìlera	7.23
+ìmọ̀ nípa ẹ̀dá	sáyẹ́ńsì	6.71
+ìmọ̀ nípa ẹ̀dá	ìsẹ́ra-eni	5.58
+ìmọ̀ nípa ẹ̀dá	ìmọ̀	7.48
+ayé	ìràwọ̀	8.45
+ayé	ifi-ìràwọ̀sípò	8.06
+ayé	òsùpá	8.08
+ayé	òòrùn	8.02
+ayé	ajọ òsùpá	8.11
+ayé	òfururú	7.92
+ayé	awòràwọ	7.94
+íṣájú	àpẹẹrẹ	5.85
+íṣájú	ìfitóniléti	3.85
+íṣájú	ìmọ̀	2.81
+íṣájú	òfin	6.65
+íṣájú	akójọ	2.5
+íṣájú	ẹgbẹ́	1.77
+íṣájú	ṣíṣaájú	6.04
+ife	kọfí	6.58
+ife	ohun èlò aṣetábílì lọ́sọ̀ọ́	6.85
+ife	abáláyé	2.4
+ife	abáláyé	2.92
+ife	eròjà	3.69
+ife	nǹkan	2.15
+ife	ìmumi	7.25
+ife	ounjẹ	5
+ife	nǹkan	1.92
+ife	ajẹmómi	5.9
+amọ̀tẹ́kùn	ológbò	7.42
+amọ̀tẹ́kùn	ọkọ̀	7.27
+agbára	akọ̀wé	1.81
+akọ̀wé	asòfin	5.06
+agbára	ìyàrá ìṣèwádìí	5.09
+kọ̀mpútà	iyàrá ìṣèwádìí	6.78
+ohun-ìjà	àsírí	6.06
+FBI	ìtẹ-ilà ọwọ́	6.94
+FBI	ìwádìí	8.31
+ìṣewádìí	akitiyan	4.59
+máàsì	omi	2.94
+máàsì	onímọ̀ sáyẹ́ǹsì	5.63
+ìròyìn	ìjábọ̀	8.16
+àfónífójì-olómi	àlà-ilẹ̀	7.53
+àwòrán	ojú	4.56
+àwárí	àyè	6.34
+omi	ìríran	6.56
+ààmì	ìdádúró	2.38
+ọjọ́rú	ìròyìn	2.22
+máílì	kìlómítà	8.66
+kọ̀mpútà	ìròyìn	4.47
+agbègbè	ojú	5.34
+ojú ayé	àlà-ilẹ̀	3.69
+ààrẹ	oyè-ẹ̀yẹ	3
+ogun	ọmọ-ọgun	8.13
+àkọsílẹ̀	nọ́mbà	6.31
+àwọ-ara	ojú	6.22
+Japaníìsì	Amẹ́ríkà	6.5
+eré-orí-ìtagé	ìtàn	3.91
+olùfarajìn	àkọmọ̀nà	2.56
+ẹ̀tanú	ìdánimọ̀	3
+ìṣelọ́sọ̀ọ́	ìsakíkanjú	5.63
+ọgọ́rùn-ún ọdún	ọdún	7.59
+ọgọ́rùn-ún ọdún	orílẹ̀-èdè	3.16
+ìdádúró	ẹlẹ́yàmẹ̀yà	1.19
+ìdádúró	ìròyìn	3.31
+mínísítà	ẹgbẹ́	6.63
+àlááfíà	èrò	4.75
+ìpín-kékeré	àlááfíà	3.69
+gbìyànjú	àlááfíà	4.25
+ìjọba	wàhálà	6.56
+ìmúṣiṣẹ́	lílọ	4.25
+ìmúṣiṣẹ́	ìmúkúrò	5.88
+agbára	wàhálà	5.94
+ìkéde	ìròyìn	7.56
+ìkéde	akitiyan	2.75
+rọlápá-rọlẹ́sẹ̀	ilé-ìwòsàn	7.03
+àlébù	ikú	5.47
+olùgbàdì	pàjáwìrì	6.47
+ìtọ́jú	ìmúbọ̀sípò	7.91
+jọ́nà	ẹgbẹ́	4.97
+dókítà	òṣìṣẹ́	5
+dókítà	gbèsè	5.19
+gbèsè	ìdójútòfò	7.03
+ilé-ìwé	ibi-ìṣẹ́	3.44
+ìdí	ẹ̀jẹ̀-ríru	2.31
+ìdí	òdùnwọ̀n	5.91
+ọgọ́rùn-ún	ìdá	7.38
+háfàdì	yálè	8.13
+ilé-ìwòsàn	ìmáyédẹrùn	4.63
+ikú	ọ̀wọ́	5.25
+ikú	ẹlẹ́wọ̀n	5.03
+agbẹjọ́rò	ẹ̀rí	6.69
+ìyè	ikú	7.88
+ìyè	sáà	4.5
+ọ̀rọ̀	ìbájọra	4.75
+ìgbìmọ aláṣe	àbá	4.47
+gómìnà	ìfọ̀rọ̀wánilẹ́nuwò	3.25
+OPEC	orílẹ̀-èdè	5.63
+àlááfíà	ojú ọ̀rùn	3.69
+àlááfíà	ìdójútòfò	2.94
+agbègbè	kìlómítà	5.28
+ìrìnàjò	ìṣe	5
+ìdíje	ìdíyelé	6.44
+oníbàárà	ìgboyà	4.13
+oníbàárà	agbára	4.75
+ìṣòro	pápá ọkọ̀-òfúrufú	2.38
+ọkọ̀	ọkọ̀-òfurufú	4.94
+kírẹ́díìtì	káàdì	8.06
+kírẹ́díìtì	ìfitóniléti	5.31
+òtẹ́ẹ̀lì	ìgbàyèsílẹ̀	8.03
+ìta-èèlò	owó	5.94
+ìforúkọsílẹ̀	ètò	6
+ètò	ibùgbé	5.41
+oṣù	òtẹ́ẹ̀lì	1.81
+oríìsí	irú	8.97
+dídé	òtẹ́ẹ̀lì	6
+ibùsùn	kọ́lọ́fín	6.72
+kọ́lọ́fín	aṣọ	8
+ipò	ìparí	4.81
+ipò	ìyàsọ́tọ̀	3.88
+àìsojúsàájú	ifẹ́	5.16
+ìtọ́sọ́nà	àkójọpọ̀	2.25
+òpópónà	ibi	6.44
+òpópónà	ọ̀nà	8.88
+òpópónà	ibùsọ̀	6.88
+òpópónà	ọmọ	4.94
+gbígbọ́	ìṣúmọ́tòsí	2.56
+gbígbọ́	ẹka	6.38
+sẹ́ẹ̀lì	fóònù	7.81
+ìgbéṣẹ́-jáde	ìgbówólórí	1.75
+gbèdéke	sẹ́ẹ̀lì	4.25
+ìbánisọ̀rọ̀	ìṣòwò	3.88
+ìbánisọ̀rọ̀	jèèrè	2.88
+èrè	ìsanwó	7.63
+èrè	ìsirò	6.48
+ìsirò	ìdíyelé	8.44
+kọ́rẹ́ńsì	ọjà	7.5
+opec	eepo	8.59
+eepo	àkójọ-ọjà	6.34
+ìkéde	ìgbésẹ́jáde	3.38
+ìkéde	ìkìlọ̀	6
+èrè	ìkìlọ̀	3.88
+èrè	pàdánù	7.63
+dọ́là	yẹ́ẹ̀nì	7.78
+dọ́là	dọ́là kan	9.22
+dọ́là	èrè	7.38
+dọ́là	pàdánù	6.09
+kọ̀mpútà	ajẹ́kọ̀mpútà ó siṣẹ́	8.5
+ìtàkùn	̀ẹ̀rọ	8.31
+fóònù	ohun-èlò	7.13
+ohun-èlò	olùṣe	5.91
+afẹ́-ayé	ọkọ̀	6.47
+márùn-ún	osù	3.38
+àbọ̀	jèèrè	3.63
+olùdókòòwò	iye tó ń wọlé	7.13
+olómi	omi	7.89
+bóòlù-ọlọ́ọ̀pá	ìgbà	5.97
+eré-ìdárayá	ìṣẹ́gun	7.03
+eré-ìdárayá	ẹgbẹ́	7.69
+ere ọlọ́gbanrangandan	ẹ̀mí	7.47
+eré-ìdárayá	orísìírísìí	6.19
+eré-ìdárayá	pàdánù	6.97
+méje	orísìírísìí	3.56
+oúnjẹ-odò	òkun	7.47
+oúnjẹ-odò	oúnjẹ	8.34
+oúnjẹ-odò	akọ-edé	8.7
+akọ-edé	oúnjẹ	7.81
+akọ-edé	otí-wáìnì	5.7
+oúnjẹ	sísè	6.22
+fídíò	ìbi ìselọ́jọ̀	6.34
+ìbẹ̀rẹ̀	ọdún	4.06
+ìbẹ̀rẹ̀	báramu	4.47
+eré-ìdárayá	roboto	5.97
+ẹ̀ṣẹ́-kíkàn	roboto	7.61
+ìdíje	ìfagagbága	8.36
+ìjà	ìgbàjákulẹ̀	7.41
+ìlà	ìdójútòfò	2.69
+ọjọ́	ẹ́ẹ́rùn	3.94
+̀ẹ̀ẹ̀rùn	ọ̀gbẹlẹ̀	7.16
+̀ẹ̀ẹ̀rùn	ayé	5.63
+ọjọ́	àfẹ̀júmọ́	7.53
+ayé	àyíká	8.31
+àyíká	ìmọ̀ nípa àyíká	8.81
+àdámọ́	ọkùnrin	6.25
+ọkùnrin	obìnrin	8.3
+ọkùnrin	gómìnà	5.25
+ìpànìyàn	ìṣekúpani	8.53
+ọṣẹ	eré	7.94
+eré	ìṣe	6.88
+ìgbésí-ayé	ẹ̀kọ́	5.94
+àfojúsí	ìgbésí-ayé	4.06
+ìgbéṣẹ́jáde	òsìṣẹ́	6.25
+tẹlifíṣọ̀n	fíìmù	7.72
+olólùfẹ́	aáwọ̀	6.19
+òǹwòran	ojú-òpó	2.97
+óṣeóṣe	ọmọbìrin	1.94
+iye-ènìyàn	ìdàgbàsókè	3.75
+ìwà ọmọlúàbí	pàtàkì	3.31
+ìwà ọmọlúàbí	ìgbéyàwó	3.69
+mẹ́síkò	bìràsílì	7.44
+akọnbábo	ìdọ́gba	6.41
+àyípadà	ìhà kíkọ sí nǹkan	5.44
+ìdílé	ìṣetò	6.25
+eré	ilé-iṣẹ́	2.63
+súgà	ọ̀nà	0.88
+ìṣe	ìgbékalẹ̀	3.19
+ilé-iṣẹ́	àṣà	4.69
+ìṣòro	ìpèníjà	6.75
+ìwọ̀n	fojúhàn	5.31
+orílẹ̀-èdè	ọmọ irílẹ̀-èdè	7.31
+ayé	ènìyàn	5.75
+ìdàgbàsókè	ọ̀rọ̀	3.97
+ìrírí	orin	3.47
+orín	àkànṣe iṣẹ́	3.63
+gíláàsì	irin	5.56
+baba	irin	7.83
+ààyè	ìwúlò	3.88
+sàfihàn	ohun-ìrántí	5.31
+eré-orin	àgbà-òṣèré	6.81
+rọ́ọ̀kì	jazz	7.59
+ìlé-ìsẹ̀mbáyé	eré-orí-ìtàgé	7.19
+àkíyèsí	àwòrán ilégbèé	4.38
+àyè	àgbáyé	6.53
+ìfipamọ́	àgbáyé	6.19
+ìgbàwọlé	ìwé aṣe ìgbaniwọlé	7.69
+òjò	ààrá	6.31
+òjò	̀ẹ̀kún ọmi	6.03
+ojú-ọjọ́	àsọtẹ́lẹ̀ ojú ọjọ́	8.34
+àjálù	agbègbè	6.25
+gómìnà	ọ́físì	6.34
+àwòrán ilégbèé	ọgbọ́rùn-ún ọdún	3.78
